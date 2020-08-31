@@ -34,6 +34,10 @@ Delete this text and answer do you think the data used in the paper are sufficie
 
 Delete this text and answer what are the main sections of the paper? How do they support (or not) the answer to the question? 
 
+## Methods
+
+Delete this text and answer do you think the analytic methods (plots, summaries, statistical models) are sufficient to answer the question? Do you think it could have been done with simpler methods? 
+
 ## Reproducibility
 
 Delete this text and answer do you think you could reproduce this analysis based on the text? Do you have access to the data, the code, enough of a description of what happened? Why or why not? 
@@ -41,5 +45,10 @@ Delete this text and answer do you think you could reproduce this analysis based
 ## Cutting room floor
 
 Delete this text and answer do you think that the analysis was done in the order shown in the paper? Do you think the authors only did the analysis shown in the paper? 
+
+## Conclusions
+
+Delete this text and answer do you think that the overall analysis makes a convincing point? Why or why not? 
+
 
 
