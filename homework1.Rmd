@@ -1,0 +1,45 @@
+---
+title: "Homework 1"
+output: html_document
+author: "Your Name"
+---
+
+## Paper
+
+Read this paper:
+
+https://www.nejm.org/doi/full/10.1056/NEJMsa1803972
+
+## Summary
+
+Delete this text and write a brief one paragraph summary of the paper highlighting what you consider to be the key parts of the analysis. 
+
+## Audience
+
+Delete this text and answer who you think the target audience of this paper is? 
+
+## Question Type
+
+Delete this text and answer what kind of question (descriptive, exploratory, inferenential, predictive, casual, or mechanistic) is this paper trying to answer? 
+
+## Question
+
+What is the main question the paper is trying to answer? 
+
+## Data
+
+Delete this text and answer do you think the data used in the paper are sufficient to answer the question?
+
+## Structure
+
+Delete this text and answer what are the main sections of the paper? How do they support (or not) the answer to the question? 
+
+## Reproducibility
+
+Delete this text and answer do you think you could reproduce this analysis based on the text? Do you have access to the data, the code, enough of a description of what happened? Why or why not? 
+
+## Cutting room floor
+
+Delete this text and answer do you think that the analysis was done in the order shown in the paper? Do you think the authors only did the analysis shown in the paper? 
+
+
